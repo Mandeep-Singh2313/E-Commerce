@@ -1,7 +1,5 @@
-# E-Commerce
-Full-stack E-Commerce web application built with Spring Boot, React, PostgreSQL, JWT Authentication, Stripe Payments, Maven, Tailwind CSS, and REST APIs.
-# E-Commerce Web Application
 
+# E-Commerce Web Application
 A full-stack E-Commerce platform designed with a scalable backend and responsive frontend architecture. The application provides secure authentication, product management, cart functionality, order processing, and Stripe payment integration.
 
 ## Tech Stack
@@ -35,6 +33,8 @@ A full-stack E-Commerce platform designed with a scalable backend and responsive
 - RESTful API integration between frontend and backend
 - PostgreSQL database integration
 - Scalable microservice-oriented backend structure
+- Admin and Seller Panel
+- Product and Category Add, Update, Delete
 
 ## Project Architecture
 
@@ -53,8 +53,6 @@ PostgreSQL Database
 - Email notifications
 - Recommendation system
 - Docker and Kubernetes deployment
-
-## Getting Started
 
 ### Backend Setup
 
